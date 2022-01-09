@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background-color:#303841;
+     width: 80%;
+    margin: auto;
+
+}
+
+.box-4{
+    color:#fff; 
+    margin-top:60px ;
+    text-align: center;
+    font-size:70px;
+   
+}    
+.container{
+     font-size:25px;
+
+    
+} 
+.box-1{
+   color:#fff;
+  width:50%;
+    }
+
+.box-2{
+    font-size: 20px;
+}
+
+.box-3{
+    font-size:20px ;
+}
+.box-5{
+    color:#000;
+   margin-left:200px;
+}
+.box-6{
+    width:100px;
+    position: absolute;
+}
